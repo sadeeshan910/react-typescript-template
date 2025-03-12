@@ -1,11 +1,8 @@
-```markdown
-# Simple Setup Web
+# React Typescript Template With eslint and prettier
 
 A simple React project setup using TypeScript, ESLint, Prettier, and Vite for fast development.
 
 ## Project Structure
-
-```
 
 ````
 .
@@ -38,8 +35,8 @@ To get started with this project, follow these steps:
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/simple-setup-web.git
-cd simple-setup-web
+git clone https://github.com/sadeeshan910/react-typescript-template.git
+cd react-typescript-template
 ```
 
 ### 2. Install Dependencies
