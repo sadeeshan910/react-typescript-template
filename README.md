@@ -1,4 +1,4 @@
-# React Typescript Template With eslint and prettier
+# React Typescript Template with Eslint and Prettier
 
 A simple React project setup using TypeScript, ESLint, Prettier, and Vite for fast development.
 
@@ -130,11 +130,3 @@ through a `.prettierrc` file if added.
 - **Vite**: A fast build tool and development server.
 - **ESLint**: A tool for identifying and fixing linting errors.
 - **Prettier**: A tool for automatic code formatting.
-
-## License
-
-This project is licensed under the MIT License.
-
-```
-
-This `README.md` should serve as a solid template for someone looking to start a React TypeScript project with ESLint and Prettier. You can modify or expand this as needed based on your specific setup or any additional features you add to your project!
